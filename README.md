@@ -12,3 +12,5 @@ Repositórtio Voltado para o desafio proposto pela Mutual de Análise de cliente
   6. Avaliação de Resultados do Modelo
   7. __(Extra)__ Percebi o problema do modelo de desbalanceamento e busquei formas de corrigir para obter uma melhor precisão e um Recall maior.
  * Além disso exportei esse modelo para que possa ser usado para produção. No caso do modelo escolhido é feito por uma API que no qual utilizei a biblioteca Pickle para fazer o salvamento e carregamento posterior desses modelos.
+### 2. Link da Aplicação- Dashboard
+[Dashboard](https://mutualinvest.herokuapp.com/)
